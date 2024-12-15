@@ -12,7 +12,7 @@ A personal portfolio website built using modern web technologies to showcase ski
 
 - **Responsive Design**: Optimized for viewing on all devices, including desktops, tablets, and mobile phones.  
 - **Showcase Section**: Highlights projects with descriptions, links, and media.  
-- **Professional Profile**: Includes a personal bio, skills, and contact information.  
+- **Professional Profile**: Includes a personal bio, tech stacks, skills, and contact information.  
 - **Interactive Elements**: Smooth scrolling, animations, and interactive navigation for an engaging user experience.  
 - **Customizable**: Easy to update content and add new projects.  
 
