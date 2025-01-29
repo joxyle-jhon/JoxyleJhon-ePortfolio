@@ -21,7 +21,7 @@ A personal portfolio website built using modern web technologies to showcase ski
 - **Frontend**:  
   - HTML5  
   - CSS3  
-  - JavaScript  
+  - JavaScript Vanilla 
 
 ## Installation  
 
