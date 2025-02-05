@@ -2,7 +2,7 @@
 
 ![ePortfolio Preview](imgREADME.png)  
 
-Visit site here: 
+Link:
 
 https://joxyle-jhon.github.io/ePortfolio/#projects
 
