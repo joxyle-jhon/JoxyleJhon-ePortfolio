@@ -4,7 +4,7 @@
 
 Link:
 
-https://joxyle-jhon.github.io/ePortfolio/#projects
+jhonlloydomblero.vercel.app
 
 A personal portfolio website built using modern web technologies to showcase skills, projects, and professional experiences. This project serves as an online resume and portfolio for potential employers and collaborators to explore.  
 
